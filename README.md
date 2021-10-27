@@ -2,9 +2,16 @@
 
 Create a simple todolist with React and html and css.
 
+# Tutorial
+
+Follow a tutorial for setting up a todo app in react [here](https://www.boorje.com/react-todo-app/).
+
+# Next steps
+
+Style the list to your liking.
+
 ### Setup
 
  - Clone project repo
  - Then run  `npm install`.
  - Then run `npm start` to compile your js and scss 
- - Optional: Run `npm serve` to run live reload.
