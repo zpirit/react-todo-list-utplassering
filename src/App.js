@@ -11,7 +11,7 @@ class App extends React.Component {
 	return (
 		<div className="App">
 			<header className="">
-				<h1>React To-Do List</h1>
+				<h1>React To-Do List </h1>
 			</header>
 			<div></div>
 		</div>
