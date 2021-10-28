@@ -3,5 +3,17 @@
   margin: 0 auto;
 }
 h1 {
+  border: 5px outset black;
+         background-color:gray ;
+         padding:20px ; 
+         margin-right: 0px;
+         text-align: center;
+         font-size: 50px;
+         font-style:oblique;
+}
+body{
+  background-image: url("../src/image/beautiful-blooming-bouquet-bush.jpg");
+  color:white;
   text-align: center;
+  font-size: 30px;
 }
