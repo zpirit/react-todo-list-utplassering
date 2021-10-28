@@ -12,6 +12,7 @@ Style the list to your liking.
 
 ### Setup
 
- - Clone project repo
+ - Clone project repo.
+ - Install [Node](https://nodejs.org/en/download/), preferably on linux/mac or wsl.
  - Then run  `npm install`.
  - Then run `npm start` to compile your js and scss 
