@@ -27,15 +27,15 @@ class LogOnForm extends React.Component {
 	render() {
 		return (
 			<>
-				<form onSubmit={handleSubmit}>
+				<form onSubmit={this.handleSubmit}>
 					<label>
 						Username:
-						<input type="text" value={username} onChange={(e) => {setUsername(e.target.value)}}/>
+						<input type="text" value={this.state.username} onChange={(e) => {this.setUsername(e.target.value)}}/>
 					</label>
 
 					<label>
 						Password:
-						<input type="text" value={password} onChange={(e) => {setPassword(e.target.value)}}/>
+						<input type="text" value={this.state.password} onChange={(e) => {this.setPassword(e.target.value)}}/>
 					</label>
 
 					<button type="submit">
