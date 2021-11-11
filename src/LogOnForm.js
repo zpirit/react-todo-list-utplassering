@@ -21,6 +21,7 @@ class LogOnForm extends React.Component {
 		console.log('Submitting Form');
 		console.log('Username', this.state.username);
 		console.log('Password', this.state.password);
+		// push data with ajax
 	}
 
 	render() {
